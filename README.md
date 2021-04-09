@@ -4,6 +4,8 @@ Just try out the git thing and enjoy gitting!
 
 Here is a cute dolphin:
 
+change !
+
 ![A cute dolphi](cute-dolphin.jpeg)
 
 I love dolphins but I haven't figure out a way to have one at home
